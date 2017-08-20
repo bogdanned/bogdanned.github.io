@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, h6, span, li, p{
+  font-family: 'Roboto';
+}
+
+a{
+  color: #1da1f2;
+  font-weight: 100;
+}
+
+body{
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.container{
+  margin: auto;
+  max-width: 1024px;
+}
