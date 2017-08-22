@@ -11,6 +11,7 @@ a{
 body{
   font-family: 'Roboto';
   text-align: center;
+  font-size: 1rem;
 }
 
 .container{
@@ -18,7 +19,8 @@ body{
   grid-template-rows: 1fr auto 300px;
   grid-template-columns: 1fr;
   margin: auto;
-  max-width: 1024px;
+  max-width: 764px;
+  width: 100%;
 }
 
 .header{
